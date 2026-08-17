@@ -34,7 +34,7 @@
     "@types/node": "catalog:",
     "@vitest/coverage-v8": "catalog:",
     "concurrently": "^8.2.0",
-    "electron": "^41.3.0",
+    "electron": "^41.10.3",
     "electron-builder": "^26.9.0",
     "rimraf": "catalog:",
     "vitest": "catalog:"
